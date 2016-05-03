@@ -1,0 +1,189 @@
+/*
+license: hausgarten
+author: lysenko_igor Designer/ Front End Developer
+vk.com/de_antrage
+*/
+
+/**{
+	box-shadow: 0px 0px 1px red;
+}
+*/
+
+.content{
+	padding-bottom: 35px;
+	margin-bottom: 75px;
+}
+
+#alphabet-full-wrapper{
+	border-top: 1px solid #e9e9e9;
+
+	padding: 15px 0px;
+}
+
+#alphabet-flex{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-align-content: space-between;
+    -ms-flex-line-pack: justify;
+    align-content: space-between;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    padding:0px 40px;
+    margin-bottom: 0px;
+}
+
+#alphabet-flex li{
+    -webkit-order: 0;
+    -ms-flex-order: 0;
+    order: 0;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+    align-self: auto;
+    list-style-type:none;
+}
+#alphabet-flex li a{
+	color: #595959;
+}
+#brands-flex{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-align-content: space-between;
+    -ms-flex-line-pack: justify;
+    align-content: space-between;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    padding:0px 40px;
+}
+
+#brands-flex .brand-flex-item{
+    -webkit-order: 0;
+    -ms-flex-order: 0;
+    order: 0;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+    align-self: auto;
+    list-style-type:none;
+    height: 290px;
+    overflow: hidden;
+	text-align: center;
+    position: relative;
+    padding: 0px;
+    border: 1px solid #e9e9e9;
+    margin-bottom: 5px;
+    float: left;
+    max-width: 370px;
+}
+
+#brands-flex .brand-flex-item:hover{
+   	overflow: visible;
+}
+
+#brands-flex .brand-flex-item:hover .inside-flex-item{
+	box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.1);
+   	z-index: 2;
+}
+#brands-flex .brand-flex-item .inside-flex-item{
+	position: relative;
+	height: 100%;
+   	width: 100%;
+
+	background:#fff;
+	display: table;	
+}
+#brands-flex .brand-flex-item .inside-flex-item .bg-image {
+	display: table-row;
+	vertical-align: top;
+	position: absolute;
+	top:0px;left: 0px;
+	width: 100%;
+	height: 100%;
+	background: url(/img/delivery/brands/chanel.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#brands-flex .brand-flex-item .inside-flex-item .brand-name {
+	display: table-row;
+	vertical-align: top;
+    display: inline-block;
+	position: absolute;
+	top:30px;
+    right: 0px;
+	text-align: right;
+    padding: 0px 25px;
+}
+#brands-flex .brand-flex-item .inside-flex-item .brand-title {
+	display: table-row;
+	vertical-align: top;
+	position: absolute;
+    display: inline-block;
+	top:50px;
+	right: 0px;
+	text-align: right;
+	padding: 0px 25px;
+}
+#brands-flex .brand-flex-item .inside-flex-item .brand-description {
+    display: table-row;
+    z-index: 30;
+    position: absolute;
+    left: 0px;
+    padding: 25px;
+    top: 100%;
+    vertical-align: bottom;
+    box-shadow: 0px 15px 15px 5px rgba(0,0,0,0.1);
+    background: #fff;
+    border: 1px solid rgba(214, 214, 214, 0.99);
+    border-top: none;
+    text-align: left;
+    margin-left: -1px;
+    width: calc(100% + 2px);
+}
+
+#brands-flex .brand-flex-item .inside-flex-item .brand-description .btn-detail-wrap{
+	width: 100%;
+	padding: 15px;
+}
+#brands-flex .brand-flex-item .inside-flex-item .brand-description .btn-detail{
+	background: #23a819;
+	padding: 5px 15px;
+	float: right; 
+	border-radius: 3px;
+	color: #fff;
+	text-decoration: none;
+}
+#brands-flex .brand-flex-item .inside-flex-item .brand-description .btn-detail:hover{
+	background: #1C7D14;
+}
+
+#content-padding-bottom{
+    margin-bottom: 40px;
+    z-index: 999;
+}

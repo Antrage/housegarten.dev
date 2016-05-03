@@ -1,0 +1,33 @@
+@keyframes slideFromDown {
+    0%   {top: 100%;background: rgba(150,150,150,0.0)}
+    100% {top: calc(100% -58px);background: rgba(255,255,255,0.88)}
+
+}
+
+@keyframes slideOnDown {
+    0%   {top: 58px;background: rgba(255,255,255,0.88)}
+    100% {top: 100%;background: rgba(150,150,150,0.0)}
+
+}
+
+@keyframes slideUp {
+    0%   {line-height: 68px;}
+    70%   {line-height: 68px;}
+    100% {line-height: 58px;}
+}
+
+@keyframes slideDown {
+    0%   {line-height: 58px;}
+    15%   {line-height: 68px;}
+    100% {line-height: 68px;}
+}
+
+@keyframes opacityShow {
+    0%   {opacity: 0;color:#fff;}
+    100% {opacity: 1;color: #23A819;}
+}
+
+@keyframes opacityHide {
+    0%   {opacity: 1;color: #23A819;}
+    100% {opacity: 0;color:#fff;}
+}

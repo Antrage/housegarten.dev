@@ -1,0 +1,236 @@
+/*
+license: hausgarten
+author: Lysenko Ihor Designer/ Front End Developer
+vk.com/de_antrage
+*/
+
+/**{
+	box-shadow: 0px 0px 1px red;
+}
+*/
+
+.content{
+	padding-bottom: 35px;
+	margin-bottom: 75px;
+}
+
+#myform {
+    display: inline;
+}
+.qty {
+    width: 40px;
+    height: 25px;
+    text-align: center;
+     border:1px solid #23a819;
+     border-radius: 4px;
+     width: 36px;
+     text-align: center;
+}
+input.qtyplus { width:25px; height:25px;}
+input.qtyminus { width:25px; height:25px;}
+
+
+
+#collection-nav-wrapper{
+    padding: 0px 40px;
+}
+#collection-main{
+    margin-bottom: 25px;
+    font-family: 'segoeuisl';
+}
+
+#collection-main ul{
+   margin: 0px;
+}
+#collection-main li{
+   margin: 0px;
+   font-family: 'segoeuisl';
+   font-weight: bold;
+}
+
+#collection-main li a:hover{
+   background: transparent;
+   color: #23a819;
+}
+
+#collection-main li.active a{
+   background: transparent;
+   color: #23a819;
+}
+
+#collection-main li a{
+   margin: 0px;
+   padding-top:0px;
+   padding-bottom: 0px; 
+   color: #777777;
+   font-family: 'segoeuisl';
+   font-weight: bold;
+}
+
+#collection-main li:not(:last-child) a{
+   border-right: 1px solid #e9e9e9;
+}
+
+#collection-block{
+    padding: 0px 40px;
+}
+
+#collection-block > div.row  > div{
+    margin-bottom: 9px;
+}
+
+#collection-block .item-collect{
+    border: 1px solid #e9e9e9;
+    display: inline-block;
+    width: 100%;
+    padding: 15px 15px 20px 15px;
+}
+
+#collection-block .item-collect:hover{
+    border: 1px solid #c9c9c9;
+}
+
+#collection-block .item-collect > div{
+    padding: 0px;
+}
+
+
+#collection-block .item-collect > div.collect-item-right > div{
+    width: 100%;
+    float: right;
+    text-align: right;
+    padding-right: 15px;
+    font-family: 'segoeuisl';
+}
+
+#collection-block .item-collect > div.collect-item-right .collection-prod .product-price{
+    color: #646464;
+    font-size: 21px;
+}
+
+.collect-item-right > .product-name,.collect-item-right > .product-type{
+    color: #2c2b2b;
+    font-size: 18px;
+}
+.collect-item-right > .product-number{
+    color: #898989;
+    font-size: 12px;
+}
+
+
+#collection-block .item-collect > .image-wrapper{
+    float: left;
+    max-width: 228px;
+    max-height: 228px;
+    display: inline-block;
+}
+#collection-block .item-collect > .image-wrapper img{
+    width: 100%;
+    max-height: 228px;
+}
+
+.cont-p-40-px{
+    padding: 25px 40px; 
+}
+
+
+.collection-prod ul li a.btn-buy{
+    background: #23a819;
+    color: #fff;
+    padding: 5px;
+    border-radius: 4px; 
+    width: 63px;height: 25px;
+    text-decoration: none; 
+}
+.collection-prod ul li a.btn-buy:hover{
+    background: #1D8416;
+}
+.collection-prod form input[type="button"]{
+    background: transparent;
+    background-color: transparent;
+    border: none;
+}
+
+
+.product-count{
+    padding:0px; 
+    margin: 0px; 
+}
+.product-count li{
+    list-style-type: none;
+    display: inline;
+    width: 50%;
+    padding: 0px;
+}
+
+.product-count li:first-child{
+    list-style-type: none;
+    display: inline-block;
+    width: 100%;
+    padding: 0px;
+}
+
+#first-news-block{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-family: 'segoeuisl';
+    color: #777777;
+}
+
+#first-news-block h2{
+    font-weight: bold;
+}
+
+#first-news-block .news-item{
+    -webkit-order: 0;
+    -ms-flex-order: 0;
+    order: 0;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+    align-self: flex-start;
+    height: 295px;
+    padding: 12px 14px;
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid #e9e9e9;
+
+}
+
+
+#first-news-block .news-item:nth-child(2n+1){
+    margin-right: 7px;
+}
+
+#first-news-block .news-item:nth-child(2n+2){
+    margin-left: 7px;
+}
+
+#first-news-block .news-item > .image-wrapper{
+    height: 270px;
+    overflow: hidden;
+    position: relative;
+}
+#first-news-block .news-item > .image-wrapper img{
+   width: 100%;
+   vertical-align: middle;
+}
+

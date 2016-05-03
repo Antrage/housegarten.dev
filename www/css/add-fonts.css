@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'BebasNeue_Thin';
+	src: url('/fonts/BebasNeue_Thin.ttf') format('truetype');
+
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: 'segoeuisl';
+	src: url('/fonts/SEGOEUISL.ttf') format('truetype');
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: 'Solomon_Sans_Book';
+	src: url('/fonts/Solomon_Sans/Solomon_Sans_Book.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
