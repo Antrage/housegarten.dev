@@ -8,15 +8,49 @@
 
 
 @font-face {
-	font-family: 'segoeuisl';
-	src: url('/fonts/SEGOEUISL.ttf') format('truetype');
+	font-family: 'segoeui';
+	src: url('../fonts/SEGOEUI.ttf') format('truetype');
 	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'segoeuisl';
+	src: url('../fonts/SEGOEUISL.ttf') format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'SEGOEUIB';
+	src: url('../fonts/SEGOEUIB.ttf') format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-weight: normal;
+	font-family: 'segoe-ui-light';
+ 	src:      
+       url('/fonts/segoe-ui-light.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/segoe-ui-light.ttf')  format('truetype')
 }
 
 
 @font-face {
 	font-family: 'Solomon_Sans_Book';
-	src: url('/fonts/Solomon_Sans/Solomon_Sans_Book.ttf') format('truetype');
+	src: url('/fonts/Solomon_Sans/Solomon_Sans_Book.otf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaNeueCyr-Light';
+	src: url('/fonts/helvetica/HelveticaNeueCyr-Light.otf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaNeueCyr-UltraLight';
+	src: url('/fonts/helvetica/HelveticaNeueCyr-UltraLight.otf') format('truetype');
 	font-style: normal;
 	font-weight: normal;
 }

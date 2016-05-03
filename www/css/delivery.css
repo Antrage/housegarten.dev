@@ -114,9 +114,9 @@ vk.com/de_antrage
 	position: relative;
 	height: 100%;
    	width: 100%;
-
 	background:#fff;
-	display: table;	
+	display: table;
+    font-family: 'segoe-ui-light';	
 }
 #brands-flex .brand-flex-item .inside-flex-item .bg-image {
 	display: table-row;
@@ -135,21 +135,26 @@ vk.com/de_antrage
 	vertical-align: top;
     display: inline-block;
 	position: absolute;
-	top:30px;
+	top:0px;
     right: 0px;
 	text-align: right;
-    padding: 0px 25px;
+    padding: 10px;
+    font-size: 21px;
 }
+
 #brands-flex .brand-flex-item .inside-flex-item .brand-title {
 	display: table-row;
 	vertical-align: top;
 	position: absolute;
     display: inline-block;
-	top:50px;
-	right: 0px;
-	text-align: right;
-	padding: 0px 25px;
+    top:30px;
+    right: 0px;
+    text-align: right;
+    padding: 10px;
+    color: #919191;
+   
 }
+
 #brands-flex .brand-flex-item .inside-flex-item .brand-description {
     display: table-row;
     z-index: 30;

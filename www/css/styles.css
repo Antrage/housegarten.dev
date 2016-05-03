@@ -8,6 +8,23 @@ vk.com/de_antrage
 	box-shadow: 0px 0px 1px red;
 }
 */
+
+body{
+	color: #777777;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.container-title{
+	padding: 0px 40px;
+	font-family: 'SEGOEUIB';
+}
+
+
+
 .breadcrumb {
     padding: 8px 40px;
     margin-bottom: 0px;
@@ -57,7 +74,7 @@ vk.com/de_antrage
 .green-top-navbar{
 	background: #23a819;
 	min-height: 28px;
-	height: 28px;
+
 	margin-bottom: 0px;
 }
 
@@ -71,12 +88,23 @@ vk.com/de_antrage
     margin-left: 0px;
 }
 
+.green-top-navbar .navbar-nav > li{
+    line-height: 28px;
+    color:#fff;
+   font-family: 'Solomon_Sans_Book';
+}
+
 .green-top-navbar .navbar-nav > li > a {
     padding: 0px;
     margin: 0px 10px;
     line-height: 28px;
     color:#fff;
    font-family: 'Solomon_Sans_Book';
+   text-decoration: none!important;
+}
+
+.green-top-navbar .navbar-nav > li > div > a {
+   text-decoration: none!important;
 }
 
 .green-top-navbar .navbar-nav > li {
@@ -287,7 +315,8 @@ vk.com/de_antrage
 }
 
 #dLabel #flag-caret{
-	border: 1px solid #fff;
+/*	border: 1px solid #fff;*/
+text-decoration: none;
 }
 
 #dLabel #flag-caret img{
@@ -311,7 +340,7 @@ vk.com/de_antrage
 
 #main-nav{
 	padding: 15px 0px;
-	font-family: 'segoeuisl';
+	font-family: 'segoeui';
 }
 
 #main-nav > ul > li > a{
@@ -408,7 +437,7 @@ vk.com/de_antrage
 
 .green-news-name a{
 	color: #fff;
-	font-family: 'segoeuisl';
+	font-family: 'segoeui';
 	font-weight: 100;
 }
 
@@ -475,6 +504,21 @@ vk.com/de_antrage
 	.product-item-main-page > .item-info li{
 		display: inline-block;
 		width: 100%;
+		font-family: 'segoeui';
+	}
+	.product-item-main-page > .item-info li a{
+		color: #242424;
+		font-size: 21px;
+	}
+
+	.product-item-main-page > .item-info li .type-of-product{
+		color: #717171;
+		font-size: 14px;
+	}
+
+	.product-item-main-page > .item-info li .price-of-product{
+		color: #242424;
+		font-size: 18px;
 	}
 	.owl-carousel .owl-controls .owl-nav .owl-prev, .owl-carousel .owl-controls .owl-nav .owl-next, .owl-carousel .owl-controls .owl-dot {
 
@@ -586,7 +630,7 @@ vk.com/de_antrage
 /* about block end */
 #text-center-main{
 	padding: 0px;
-	font-family: 'segoeuisl';
+	font-family: 'segoeui';
 	color: 
 }
 
