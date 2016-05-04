@@ -12,6 +12,17 @@
     right: 0px;
     width: 100%;
 }
+#brands-flex{
+	
+	padding: 0px;
+}
+
+#brands-flex .brand-flex-item{
+    width: 420px;
+}
+.container{
+	width: 1120px;
+}
 }
 
 /* Landscape tablets and medium desktops */

@@ -36,7 +36,7 @@ input.qtyminus { width:25px; height:25px;}
 }
 #collection-main{
     margin-bottom: 25px;
-    font-family: 'segoeuisl';
+    font-family: 'segoeui';
 }
 
 #collection-main ul{
@@ -44,7 +44,7 @@ input.qtyminus { width:25px; height:25px;}
 }
 #collection-main li{
    margin: 0px;
-   font-family: 'segoeuisl';
+   font-family: 'segoeui';
    font-weight: bold;
 }
 
@@ -63,7 +63,7 @@ input.qtyminus { width:25px; height:25px;}
    padding-top:0px;
    padding-bottom: 0px; 
    color: #777777;
-   font-family: 'segoeuisl';
+   font-family: 'segoeui';
    font-weight: bold;
 }
 
@@ -100,7 +100,7 @@ input.qtyminus { width:25px; height:25px;}
     float: right;
     text-align: right;
     padding-right: 15px;
-    font-family: 'segoeuisl';
+    font-family: 'segoeui';
 }
 
 #collection-block .item-collect > div.collect-item-right .collection-prod .product-price{
@@ -169,68 +169,3 @@ input.qtyminus { width:25px; height:25px;}
     width: 100%;
     padding: 0px;
 }
-
-#first-news-block{
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -webkit-flex-wrap: nowrap;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-    -webkit-justify-content: space-around;
-    -ms-flex-pack: distribute;
-    justify-content: space-around;
-    -webkit-align-content: flex-start;
-    -ms-flex-line-pack: start;
-    align-content: flex-start;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-    font-family: 'segoeuisl';
-    color: #777777;
-}
-
-#first-news-block h2{
-    font-weight: bold;
-}
-
-#first-news-block .news-item{
-    -webkit-order: 0;
-    -ms-flex-order: 0;
-    order: 0;
-    -webkit-flex: 0 1 auto;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-    -webkit-align-self: auto;
-    -ms-flex-item-align: auto;
-    align-self: flex-start;
-    height: 295px;
-    padding: 12px 14px;
-    overflow: hidden;
-    background: #fff;
-    border: 1px solid #e9e9e9;
-
-}
-
-
-#first-news-block .news-item:nth-child(2n+1){
-    margin-right: 7px;
-}
-
-#first-news-block .news-item:nth-child(2n+2){
-    margin-left: 7px;
-}
-
-#first-news-block .news-item > .image-wrapper{
-    height: 270px;
-    overflow: hidden;
-    position: relative;
-}
-#first-news-block .news-item > .image-wrapper img{
-   width: 100%;
-   vertical-align: middle;
-}
-
