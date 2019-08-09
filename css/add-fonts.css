@@ -9,26 +9,26 @@
 
 @font-face {
 	font-family: 'segoeui';
-	src: url('../fonts/SEGOEUI.ttf') format('truetype');
+	src: url('../fonts/SEGOEUI.TTF') format('truetype');
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'segoeuisl';
-	src: url('../fonts/SEGOEUISL.ttf') format('truetype');
+	src: url('../fonts/SEGOEUISL.TTF') format('truetype');
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'SEGOEUIB';
-	src: url('../fonts/SEGOEUIB.ttf') format('truetype');
+	src: url('../fonts/SEGOEUIB.TTF') format('truetype');
 	font-weight: normal;
 }
 
 @font-face {
 	font-weight: normal;
 	font-family: 'segoe-ui-light';
- 	src:      
+ 	src:
        url('/fonts/segoe-ui-light.woff') format('woff'), /* Pretty Modern Browsers */
        url('/fonts/segoe-ui-light.ttf')  format('truetype')
 }

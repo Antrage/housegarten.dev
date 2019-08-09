@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7013b990-684f-473a-802a-9ae76b4393ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/www/actions.html" beforeDir="false" afterPath="$PROJECT_DIR$/actions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/brand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/brand1.html" beforeDir="false" afterPath="$PROJECT_DIR$/brand1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/actions.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/actions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/add-fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/add-fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/brand.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/brand.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/collection.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/collection.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/delivery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/delivery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/keyframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/keyframes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/modal-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modal-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue Book.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue Book.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue Book.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue Light.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/BebasNeue_Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BebasNeue_Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/SEGOEUI.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/SEGOEUI.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/SEGOEUIB.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/SEGOEUIB.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/SEGOEUISL.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/SEGOEUISL.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/SEGOEUISL_0.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/SEGOEUISL_0.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/SEGOEUIZ.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/SEGOEUIZ.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans.zip" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/65044.png" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/65044.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Black Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Black Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Black.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Black.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Bold Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Bold Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Book Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Book Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Light Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Light Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Light.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Normal Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Normal Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Normal.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Normal.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans SemiBold Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans SemiBold Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans SemiBold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans SemiBold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Thin Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Thin Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon Sans Thin.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon Sans Thin.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/Solomon_Sans_Book.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/Solomon_Sans_Book.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/WrWlBSTL1Yw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/WrWlBSTL1Yw.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/sUd4O5SLpMw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/sUd4O5SLpMw.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/Solomon_Sans/yX71a83c0Ig.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Solomon_Sans/yX71a83c0Ig.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-Black.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Black.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-BlackItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-BlackItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-BoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-BoldItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Italic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Light.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-LightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-LightItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-Roman.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Roman.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-Thin.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Thin.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-ThinItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-ThinItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-UltraLight.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-UltraLight.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/helvetica/HelveticaNeueCyr-UltraLightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-UltraLightItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/segoe-ui-light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/segoe-ui-light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/segoe-ui-light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/segoe-ui-light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fonts/segoeuii.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/segoeuii.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/about/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/about/man.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/man.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/bag.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bag.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/basket_64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/basket_64px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/brand/70.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/brand/70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/brands/balenciaga.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/brands/balenciaga.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/brands/lanvin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/brands/lanvin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/brands/mqueen.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/brands/mqueen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/brands/patek.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/brands/patek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/brands/tagheuer.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/brands/tagheuer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/brands/timberland.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/brands/timberland.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/collection/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/collection/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/collection/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/collection/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/collection/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/collection/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/delivery/brands/chanel.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/delivery/brands/chanel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/delivery/brands/table.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/delivery/brands/table.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/footer/paymant-system/paypal.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer/paymant-system/paypal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/footer/paymant-system/visa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer/paymant-system/visa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/footer/payment-system/paypal.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer/payment-system/paypal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/footer/payment-system/visa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer/payment-system/visa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/footer/social.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer/social.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/house_ico.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/house_ico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/lock_64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/lock_64px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/main-nav/dropdown-sub-img/lock_64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-nav/dropdown-sub-img/lock_64px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/middle-nav/basket_64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/middle-nav/basket_64px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/middle-nav/house_ico.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/middle-nav/house_ico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/middle-nav/lock_64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/middle-nav/lock_64px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/middle-nav/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/middle-nav/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/middle-nav/middle-nav-btn.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/middle-nav/middle-nav-btn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/middle-nav/tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/middle-nav/tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/news/first.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/news/first.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/news/second.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/news/second.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/product-slider/prod1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/product-slider/prod1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/slider/slide.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/slide.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/top-nav/usa_flag_ico.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/top-nav/usa_flag_ico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/usa_flag_ico.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/usa_flag_ico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/jqBootstrapValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/main-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/views/delivery.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/delivery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/views/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/views/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="726" />
+    <option name="width" value="714" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="housegarten.dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="housegarten.dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7013b990-684f-473a-802a-9ae76b4393ea" name="Default Changelist" comment="" />
+      <created>1565352788658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565352788658</updated>
+      <workItem from="1565352790242" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="198000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
